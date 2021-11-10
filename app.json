@@ -1,7 +1,7 @@
 {
-    "name": "haru",
-    "description": "Deploy haru on Heroku.",
-    "keywords": ["haru"],
+    "name": "heku",
+    "description": "Deploy heku on Heroku.",
+    "keywords": ["heku"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -17,6 +17,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/pgy2022/haru",
+    "repository": "https://github.com/pznbb/heku",
     "stack": "container"
 }
